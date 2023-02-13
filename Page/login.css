@@ -1,0 +1,72 @@
+/* body {
+    background-color: rgb(254, 252, 252);
+    text-align: center;
+    padding-top: 10%;
+}
+
+/* .middle {
+    text-align: center;
+    padding-top: 20%;
+} */
+
+/* .img1 {
+    width: 45%;
+    height: 45%;
+} */
+
+input {
+    display: block;
+    width: 50%;
+    padding: 10px;
+    font-size: 14px;
+    outline: none;
+    margin-left: 25%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #4aaaa5
+}
+
+button {
+    color: white;
+    background-color: rgb(37, 224, 234);
+    padding: 10px 25px;
+    /* border-radius: 30%; */
+    font-size: large;
+}
+
+.all :hover {
+    color: white;
+    background-color: black;
+}
+
+b {
+    width: 460px;
+    font-size: 400px;
+    background:  linear-gradient(135deg, #14ffe9, #1602f2, #05f05b);
+    /* opacity: 0; */
+    color: white;
+    border-radius: 10px;
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     animation: animate 1.5s linear infinite;
+}
+
+i {
+    width: 460px;
+    font-size: 400px;
+    background:  linear-gradient(135deg, #14ffe9, #1602f2, #05f05b);
+    /* opacity: 0; */
+    color: white;
+    border-radius: 10px;
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     animation: animate 1.5s linear infinite;
+}
+
+
+
+@keyframes animate {
+    100%{
+        filter: hue-rotate(360deg);
+    }
+} */

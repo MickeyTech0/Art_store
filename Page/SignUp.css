@@ -1,0 +1,54 @@
+.all {
+    background-color: white;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.img1 {
+    width: 45%;
+    height: 45%;
+}
+
+.all2 {
+    text-align: center;
+}
+input{
+    display: block;
+    width: 50%;
+    padding: 10px;
+    font-size: 14px;
+    outline: none;
+    margin-left: 25%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #4aaaa5
+}
+
+.button {
+    color: white;
+    background-color: rgb(42, 136, 187);
+    padding: 8px 20px;
+}
+
+p {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* .log {
+    text-align: center;
+    padding: 5px;
+}
+.log2 {
+    text-align: center;
+    padding: 5px;
+} */
+/* .inside {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    color: white;
+} */

@@ -1,0 +1,17 @@
+.mybtn {
+    width: 460px;
+    font-size: 400px;
+    background:  linear-gradient(135deg, #14ffe9, #1602f2, #05f05b);
+    /* opacity: 0; */
+    color: white;
+    border-radius: 10px;
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     animation: animate 1.5s linear infinite;
+}
+
+@keyframes animate {
+    100%{
+        filter: hue-rotate(360deg);
+    }
+}

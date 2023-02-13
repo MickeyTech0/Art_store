@@ -1,0 +1,148 @@
+#form {
+    background-color: rgb(254, 252, 252);
+    text-align: center;
+    padding-top: 10%;
+}
+
+/* .middle {
+    text-align: center;
+    padding-top: 20%;
+} */
+
+/* .img1 {
+    width: 45%;
+    height: 45%;
+} */
+
+#loginForm {
+    margin-left: 30%;
+}
+
+input {
+    display: block;
+    width: 50%;
+    padding: 10px;
+    font-size: 14px;
+    outline: none;
+    /* margin-left: 25%; */
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #4aaaa5
+}
+
+button {
+    color: white;
+    background-color: rgb(37, 224, 234);
+    padding: 10px 25px;
+    /* border-radius: 30%; */
+    font-size: large;
+}
+
+.all :hover {
+    color: white;
+    background-color: black;
+}
+
+.of {
+    width: 460px;
+    font-size: 400px;
+    background:  linear-gradient(135deg, #14ffe9, #1602f2, #05f05b);
+    /* opacity: 0; */
+    color: white;
+    border-radius: 10px;
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     animation: animate 1.5s linear infinite;
+}
+
+i {
+    width: 460px;
+    font-size: 400px;
+    background:  linear-gradient(135deg, #14ffe9, #1602f2, #05f05b);
+    /* opacity: 0; */
+    color: white;
+    border-radius: 10px;
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     animation: animate 1.5s linear infinite;
+}
+
+.center:hover {
+    color: white;
+    background-color: white;
+    border: 2px solid rgb(25, 119, 204);
+    border-top-color: white;
+    border-right-color: white;
+    border-left-color: white;
+}
+
+.my {
+    width: 460px;
+    font-size: 400px;
+    background:  linear-gradient(135deg, #14ffe9, #1602f2, #05f05b);
+    /* opacity: 0; */
+    color: white;
+    border-radius: 10px;
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     animation: animate 1.5s linear infinite;
+}
+
+.only {
+    font-size: 30px;
+    background:  linear-gradient(135deg, #14ffe9, #1602f2, #05f05b);
+    /* opacity: 0; */
+    color: white;
+    border-radius: 10px;
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     animation: animate 1.5s linear infinite;
+}
+
+@keyframes animate {
+    100%{
+        filter: hue-rotate(360deg);
+    }
+}
+
+/* .loader {
+    position: fixed;
+    left: 30%;
+    top: 30%;
+    width: 40%;
+    height: 50%;
+    z-index: 9999;
+    background: url('pageLoader2.gif') 50% 50% no-repeat rgb(249, 249, 249);
+    opacity: .8;
+    border: 16px solid red;
+    border-top: 16px solid green;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {transform: rotate(0deg);}
+    100% {transform: rotate(360deg);}
+} */
+
+div.background {
+    background-image: url("../ArtStore-piz/images/art4.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    border: 1px solid white;
+}
+
+div.transbox {
+    font-size: 32px;
+    text-align: left;
+    margin-top: 300px;
+    margin-left: 5%;
+    border: 1px hidden white;
+}
+
+.tran {
+    color: rgb(52, 20, 126);
+}
